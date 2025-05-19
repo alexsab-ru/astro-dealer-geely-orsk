@@ -1,0 +1,51 @@
+---
+pubDate: 2024-03-18
+caption: Выгодный шиномонтаж в Geely Орск
+image: https://cdn.alexsab.ru/specials/geely/spring-2024-thumb.webp
+title: Шиномонтаж летних шин и хранение до установки в Орске - Geely Орск
+description: "Запишитесь на шиномонтаж по выгодной цене в Geely Орск!"
+breadcrumb: Шиномонтаж
+h1: Акция «Лето 2024» 🌸
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+<img src="https://cdn.alexsab.ru/specials/geely/spring-2024.webp" alt="Шиномонтаж по выгодной цене в Geely Орск" class="w-full" />
+<br/>
+
+Запишитесь на шиномонтаж по выгодной цене в Geely Орск! 🚗
+<br/>
+
+Для бренда Geely
+- R18 и меньше — 4000 ₽
+- R19-R20 — 5000 ₽
+- R21 и более — 6000 ₽
+ 
+Стоимость шинного отеля – 2000 ₽
+
+При расширении заказ-наряда на сумму более 4000 ₽ — Стоимость шинного отеля  0 ₽
+<br/>
+
+<b>Срок действия акции</b>
+
+С 01 марта 2024 г. до 30 июня 2024 г.
+
+* Оказание услуг хранения – с 01.03.2024 по 31.11.2024.
+* Оказание услуг шиномонтажа - с 01.03.2023 по 31.05.2024.
+<br/>
+
+Более подробная информация в отделе сервисного обслуживания по телефону: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
+
+<div class="flex justify-center mt-10 mb-5">
+    <Button 
+        classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+        url="#common-modal" 
+        title="Записаться"
+        dataTitle="Записаться на выгодный шиномонтаж"
+        dataFormName={`Акция Веска 2024. Выгодный шиномонтаж`}
+    />
+</div>
