@@ -39,7 +39,8 @@ export const LINKS_MENU = [
 // Коллекции
 export const COLLECTIONS = [
 	{name: 'special-offers', title: 'Спецпредложения'},
-	{name: 'for-owners/', title: 'Владельцам'},
+	{name: 'for-owners', title: 'Владельцам'},
+	// {name: 'news', title: 'Новости'},
 ];
 
 // Текст согласия в формах
