@@ -191,7 +191,21 @@
 ------------------------
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/49af2c7cbee76133b461b7f7582fd7de.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/69c44013e7e6b855cde34cb05f7e243d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/8639e7b01fb19473cd077e11ed1d01e9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/3ea64543dba63728a8525598d6240101.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/0c14a7f801d42bbbcf9f4d3e2f573a55.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/a1a074b88ca5aa45fd8bd57fba48b060.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/970e24fb8f17ac49b658e01d246f4482.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/62c3b65f0c1ae7ab75b221fe5b53385e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/565d08a33bb7e60f055991b04588befa.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/207ac5ca68af3bc8d146887c39ee1a90.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/bc36cb38b03e639c856c18e8c5f0004f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/ba2771a7b2be2a6d2e82e7d08dee75d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S15RB164692/6e2d8936c7a5f016244f73561dc0f8b3.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -401,77 +415,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-vostok.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-белый-2024/</url></car>
-		<car>
-			<unique_id>690a2fc081e1f82100e09d7bcd189c6b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2025</year>
-			<price>4852190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<optional_discount>100000</optional_discount>
-			<max_discount>1100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D0SS157609</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только до 31 августа! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Оценка по Trade-In выше рынка 
-✔️ Лизинг без первоначального взноса
-✔️ Рассрочка 0.01% на 8 лет
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/95dcff85791912601f9affbe5f5e270e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/5154b3825602c40a0a1fe4b1f0f8abeb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/201a8e2531f04977ded261725a810e89.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/7691b01bdc06db5fec3fa6bf752c2d35.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/ac5212430fd05de39c47092e0e5b024a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/1f6d0c21c371058f53c529a313d9a5e4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/4dee1a16533685bb3a81896b3199e179.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/8c395f5a75741c9f6f6c297878945afd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/42694ccacf964d8bd08e0a8df8536aba.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/0c44b380ecb3bc6a677310535135352b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/1e8c8a5e804458183862a893be5c23b3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/7b5992155da3598dcde608a4937cb07a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/3f75b5216b050bcceafa05e645fadfda.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/037ec93295f6edfeaafe7bd8a9bea3fa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS157609/951e174924c6432d9fad0a4b505a47d7.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-vostok.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
 		<car>
 			<unique_id>6d05bc7f7df3820aef7cb2e56fd1d016</unique_id>
 			<mark_id>Geely</mark_id>
