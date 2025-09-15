@@ -1,6 +1,116 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
+			<unique_id>56d1d6db238934856a194c05efb3261d</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>170000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>583000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S17RB176584</vin>
+			<description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 1 062 000 руб. только до 30 сентября ! Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Дополнительное оборудование*
+✔️ Шинный отель*
+✔️ Оценка по Trade-In выше рынка 
+✔️ Лизинг без первоначального взноса
+✔️ Рассрочка 0.01% на 8 лет
+✔️ Тест-драйв
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orsk.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>3def0c0ac161962a8598b2e8b4797a70</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>3917190</price>
+			<credit_discount>170000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>263000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>583000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S18RB177291</vin>
+			<description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 1 062 000 руб. только до 30 сентября ! Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Дополнительное оборудование*
+✔️ Шинный отель*
+✔️ Оценка по Trade-In выше рынка 
+✔️ Лизинг без первоначального взноса
+✔️ Рассрочка 0.01% на 8 лет
+✔️ Тест-драйв
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orsk.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-синий-2024/</url></car>
+		<car>
 			<unique_id>5cec721d7b1c9d48cfcfcdcaf6623766</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
@@ -68,6 +178,116 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orsk.ru/cars/geely-cityray-15-amt-147-лс-flagship-белый-2025/</url></car>
+		<car>
+			<unique_id>5db80b8fd2bcbda882a44ec0de700fc6</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Cityray</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2024</year>
+			<price>3214190</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>190000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>440000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3G43S96RX309238</vin>
+			<description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 1 062 000 руб. только до 30 сентября!  Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Дополнительное оборудование*
+✔️ Шинный отель*
+✔️ Оценка по Trade-In выше рынка 
+✔️ Лизинг без первоначального взноса
+✔️ Рассрочка 0.01% на 8 лет
+✔️ Тест-драйв
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orsk.ru/cars/geely-cityray-15-amt-147-лс-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>77387cf0dafb88b3ef8f309dec970055</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Cityray</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Голубой</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2025</year>
+			<price>3214190</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>190000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>440000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3G43S93SX308733</vin>
+			<description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 1 062 000 руб. только до 30 сентября!  Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Дополнительное оборудование*
+✔️ Шинный отель*
+✔️ Оценка по Trade-In выше рынка 
+✔️ Лизинг без первоначального взноса
+✔️ Рассрочка 0.01% на 8 лет
+✔️ Тест-драйв
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orsk.ru/cars/geely-cityray-15-amt-147-лс-flagship-голубой-2025/</url></car>
 		<car>
 			<unique_id>4b800b5f9796e8e0383c83837114218e</unique_id>
 			<mark_id>Geely</mark_id>
@@ -614,6 +834,77 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orsk.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
+		<car>
+			<unique_id>299cec87196f7c8d8dbc556945ee5dd6</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>100000</insurance_discount>
+			<tradein_discount>300000</tradein_discount>
+			<optional_discount>100000</optional_discount>
+			<max_discount>1100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D7RS169752</vin>
+			<description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 1 062 000 руб. только до 30 сентября! Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Дополнительное оборудование*
+✔️ Шинный отель*
+✔️ Оценка по Trade-In выше рынка 
+✔️ Лизинг без первоначального взноса
+✔️ Рассрочка 0.01% на 8 лет
+✔️ Тест-драйв
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/a5692b7588577ed9fa9e0f1d5090278f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/5a47b354d21b7a575c3e453cdc20aeab.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/f71c876c64f4e243c698fc28b584d06b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/485f031b59a37cf0ab78960f39567ad8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/15776a93607cdf0633d785cad7f2281c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/24180d12aa58d40feba638a90772e46b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/b7bf614383f8cbc211f7e2a54770c23c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/d20e83d0b4452b34764287a78c70ac18.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/c09f046c950e6b8fc372bf8c91068205.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/75e4e09f25a2397da315cc906fad6c51.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/508359e3b939f2294ce44292b5a51758.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/26105f34701c7ad1783c18f443c44ac1.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/405a46c3af7ba82cf583a6e115e2f80a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/7cfb7404cf43158315c48b21416e85da.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7RS169752/22c323684cf44acae24e3933565f9a70.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orsk.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
 			<unique_id>6d05bc7f7df3820aef7cb2e56fd1d016</unique_id>
 			<mark_id>Geely</mark_id>
