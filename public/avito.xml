@@ -428,7 +428,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>3109190</price>
 			<credit_discount>100000</credit_discount>
@@ -674,76 +674,6 @@
 				<image>https://photo.toyotasever.ru/LB37852D2SS059617/156ad5938f69d99c7bf63244a5f4ae26.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D2SS059617/0fa95933a9275d26e1ee397628f99743.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D2SS059617/f9d7487958c97356f44329a514d20b11.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orsk.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2025/</url></car>
-		<car>
-			<unique_id>0c5d1a9995de4565d0973e0f247bc945</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2025</year>
-			<price>4852190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<optional_discount>100000</optional_discount>
-			<max_discount>1100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852DXSS058702</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только до 30 сентября! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Оценка по Trade-In выше рынка 
-✔️ Лизинг без первоначального взноса
-✔️ Рассрочка 0.01% на 8 лет
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/06403cb985ade277cc6db3908e27b443.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/54d33e1581a006e9087e2a7689a887c9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/20bc41fac80f6e13a75b3b618ad86e7b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/4b2b8d702b8bf57ba4365dccebfbb535.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/ce4b455aafaaaebfcaace91424bf3441.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/384f44fadf076248d954b3656b5c1fa6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/56adc2977dd5ad0a1b82b04222eda9a0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/6e2dfe45bbc55011f61cc5a755aa15e9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/b6b33794a97fca4e601b77d9323a54e1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/fcd30c330d7e89c85fe43f5fdd6ee7a8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/191c0d011de8b7da714bada295ceca0b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/43704455c4802c9efdf0c1981ee3a7c1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/c812d806af138e4d2f61ab72e6f6599f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852DXSS058702/03cfc4d2a7e616675ef4161e8b94f779.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
