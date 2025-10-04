@@ -694,7 +694,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>3109190</price>
 			<credit_discount>100000</credit_discount>
@@ -997,79 +997,6 @@
 				<image>https://photo.toyotasever.ru/LB37852D5SS143429/c978b33a4109bed37f04390c194a8a5e.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D5SS143429/331a636eacf38b0503e7678fd09bc5b4.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D5SS143429/b4dbe79f0fd45850df1e7b1024d74dba.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orsk.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2025/</url></car>
-		<car>
-			<unique_id>9933d0d72169a5eab8a50281f035fef5</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2025</year>
-			<price>4852190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<optional_discount>100000</optional_discount>
-			<max_discount>1100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D3SS144613</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только до 31 октября! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Оценка по Trade-In выше рынка 
-✔️ Лизинг без первоначального взноса
-✔️ Рассрочка 0.01% на 8 лет
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/d0aec87f6b9d59962715070e12ab6c18.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/cd7068f4b35db68c0fc8b43d3e8fb0f1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/023bcabb16cba9c6bfc3487e74099eba.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/cbe9dce1b8bfb7a0e447628c1e683c6f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/24b1fd94ae82f8bde4c1e0ab8cd0d3e9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/50ab92793519c24fc62a7592a952a332.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/dc0e33b0a84ca853bf047a402f0c6f28.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/d46139de092d692fc9768d2ef181a87d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/33e0695d0ec66f9b45410c9b6b89e350.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/00752c7ea691bd3d9f6f0a8b3c89caa3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/a046e886534d55beafbf46284c6dc07b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/a782ce28a4d327fe30fe4bcb8d2ce3d8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/e957a1dffb0e7a006a62dbff7becf1c8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/8fe6214dc688176144b35c6ff3d9b059.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/2275379e49b8b6d7a2c52c3a205fe401.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/c15926dd578c5d960fa4c893fbf85a5a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D3SS144613/1e68fa53a84bce2b1ab0b1d0fedc3058.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
