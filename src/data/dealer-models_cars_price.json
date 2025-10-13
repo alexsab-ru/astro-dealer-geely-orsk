@@ -22,5 +22,11 @@
     "model": "OKAVANGO",
     "price": 3147190,
     "benefit": 700000
+  },
+  {
+    "brand": "KNEWSTAR",
+    "model": "001",
+    "price": 3485190,
+    "benefit": 908000
   }
 ]
