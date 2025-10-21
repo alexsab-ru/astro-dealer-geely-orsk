@@ -1,76 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>031418e3582bb3c82f84b96a6f12f168</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2025</year>
-			<price>3917190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<max_discount>413000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S11SB128715</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 1 062 000 руб. только до 31 октября ! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Оценка по Trade-In выше рынка 
-✔️ Лизинг без первоначального взноса
-✔️ Рассрочка 0.01% на 8 лет
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/7c9b9726a9e5e15f9a79aa2ee63ce3ed.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/09fb06d85e0eae2d31ea41eb195afa47.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/eeb8cc5ab234706cb351e5c75a1f281d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/88715eedbf962550968deca22feda9d0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/805e2b8bddef1627e5a45d5b4e7fb63b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/5f814336df6a7b38dc2084dc47ffd223.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/a9d83d5a94af57a86e2a24860ef6b592.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/3402a9989e069065083eb6eed8fbacca.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/e6fded04b3ece743dbf2c31740cdcbc5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/ae091d564518bb9455bd10169930349e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/3fab7a63d2e990bf073f13a3ce1d20c2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/1ba19247abcea904dce116f7681203a0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/dd65d63ea754960a12da5cd8d39c8dae.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/3cee1623c7ca432e6dd92d21bf2d29d6.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-orsk.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-серебристый-2025/</url></car>
-		<car>
 			<unique_id>b61855e65ce06944b8794468f6502757</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -135,6 +65,76 @@
 				<image>https://photo.toyotasever.ru/LB3FX1S10SB128673/c23d53e4e0a9bbfabdd7a3e011f3006f.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S10SB128673/75519e899877d5c387682360d204aca5.jpg</image>
 				<image>https://photo.toyotasever.ru/LB3FX1S10SB128673/bb9d3618cde8fec97a31000317cc6fc0.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-orsk.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-серебристый-2025/</url></car>
+		<car>
+			<unique_id>031418e3582bb3c82f84b96a6f12f168</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2025</year>
+			<price>3917190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>50000</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>50000</optional_discount>
+			<max_discount>413000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S11SB128715</vin>
+			<description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 1 062 000 руб. только до 31 октября ! Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Дополнительное оборудование*
+✔️ Шинный отель*
+✔️ Оценка по Trade-In выше рынка 
+✔️ Лизинг без первоначального взноса
+✔️ Рассрочка 0.01% на 8 лет
+✔️ Тест-драйв
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/7c9b9726a9e5e15f9a79aa2ee63ce3ed.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/09fb06d85e0eae2d31ea41eb195afa47.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/eeb8cc5ab234706cb351e5c75a1f281d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/88715eedbf962550968deca22feda9d0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/805e2b8bddef1627e5a45d5b4e7fb63b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/5f814336df6a7b38dc2084dc47ffd223.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/a9d83d5a94af57a86e2a24860ef6b592.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/3402a9989e069065083eb6eed8fbacca.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/e6fded04b3ece743dbf2c31740cdcbc5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/ae091d564518bb9455bd10169930349e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/3fab7a63d2e990bf073f13a3ce1d20c2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/1ba19247abcea904dce116f7681203a0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/dd65d63ea754960a12da5cd8d39c8dae.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S11SB128715/3cee1623c7ca432e6dd92d21bf2d29d6.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -758,34 +758,6 @@
 			</multiposting>
 		<url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-лс-luxury-белый-2025/</url></car>
 		<car>
-			<unique_id>2138efcf81cc4cd5d47e4a707b69dee2</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2025</year>
-			<price>5052190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>250000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D7SS086814</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-orsk.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2025/</url></car>
-		<car>
 			<unique_id>4e690cca6352ad8fb7bb09994689bca1</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -807,6 +779,34 @@
 			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D4SS086835</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-orsk.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2025/</url></car>
+		<car>
+			<unique_id>2138efcf81cc4cd5d47e4a707b69dee2</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>2</run>
+			<year>2025</year>
+			<price>5052190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>250000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D7SS086814</vin>
 			<description />
 			<images />
 			<multiposting>
