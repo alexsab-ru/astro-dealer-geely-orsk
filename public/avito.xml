@@ -428,7 +428,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2025</year>
 			<price>4852190</price>
 			<credit_discount>200000</credit_discount>
@@ -768,7 +768,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2025</year>
 			<price>3897190</price>
 			<credit_discount>250000</credit_discount>
