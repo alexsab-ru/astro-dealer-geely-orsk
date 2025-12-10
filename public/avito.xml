@@ -87,9 +87,9 @@
 			<price>4852190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D5SS188967</vin>
 			<description>Подарки всeм покупатeлям!
@@ -139,78 +139,6 @@
 			</multiposting>
 		<url>https://geely-orsk.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
 		<car>
-			<unique_id>47168631abe6ad8638cfdb0179f4083e</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2025</year>
-			<price>4852190</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D0SS194756</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 740 000 руб. только до 31 декабря! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Оценка по Trade-In выше рынка 
-✔️ Лизинг без первоначального взноса
-✔️ Рассрочка 0.01% до 8 лет
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/4a1bec172af6a6cfecfe7427cd84960b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/78f957da93407b4396af586d6d052f62.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/f0e989f4bd53c8a5969b494f03e2a6d1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/a3a40768d2d3633dc6f0ac66e59b1ec8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/19a71957b558186806c901586a8f6440.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/f4c88db6298cd4633c7888ca5862b674.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/1ad27b55edeaf6814310f95daf04584a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/c5110bd3fb7cb195842414ba95450980.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/c3d951a2ad4f805ff55d77bd9cb412ff.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/d6c00dd9147faab72f5e9c016eab28c6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/eb28f4895418006c7d9b390aafd393f0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/a68daaf558db7444d34fab58315f7b2a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/74c0f9f15f5bfd1493f036f8f533b1c6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/41bf76b0a9452d6db99fb82e4e356ca4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/7004dec6f570114415e6572dcc5ff1b2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS194756/db48ce01001da1b2b31e35d520dd7259.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-orsk.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
-		<car>
 			<unique_id>ab8e7e3ab7a7f625a08d27e0d52c43c1</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -227,9 +155,9 @@
 			<price>4852190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D1SS148269</vin>
 			<description>Подарки всeм покупатeлям!
@@ -299,9 +227,9 @@
 			<price>4852190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D1SS194734</vin>
 			<description>Подарки всeм покупатeлям!
@@ -371,9 +299,9 @@
 			<price>4549990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D7SS151628</vin>
 			<description>Подарки всeм покупатeлям!
@@ -438,11 +366,11 @@
 			<run>6</run>
 			<year>2025</year>
 			<price>3897190</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>50000</optional_discount>
-			<max_discount>700000</max_discount>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>373000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>373000</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TVX1S6XSY702325</vin>
 			<description>Подарки всeм покупатeлям!
@@ -510,7 +438,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>258000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>533000</max_discount>
+			<max_discount>503000</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TFS1S85RD144728</vin>
 			<description>Подарки всeм покупатeлям!
