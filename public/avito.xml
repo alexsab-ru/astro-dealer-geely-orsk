@@ -252,9 +252,9 @@
 			<price>4852190</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D5SS188967</vin>
 			<description>Подарки всeм покупатeлям!
@@ -320,9 +320,9 @@
 			<price>4549990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
+			<max_discount>550000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D7SS151628</vin>
 			<description>Подарки всeм покупатeлям!
