@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "brand": "Geely",
+    "model": "Atlas",
+    "price": 3474190,
+    "benefit": 243000
+  },
+  {
+    "brand": "Geely",
+    "model": "Cityray",
+    "price": 3014990,
+    "benefit": 200000
+  },
+  {
+    "brand": "Geely",
+    "model": "Monjaro",
+    "price": 3899990,
+    "benefit": 650000
+  },
+  {
+    "brand": "Geely",
+    "model": "OKAVANGO",
+    "price": 3424190,
+    "benefit": 473000
+  },
+  {
+    "brand": "Geely",
+    "model": "Preface",
+    "price": 2999190,
+    "benefit": 568000
+  },
+  {
+    "brand": "Knewstar",
+    "model": "001",
+    "price": 3793190,
+    "benefit": 700000
+  }
+]
