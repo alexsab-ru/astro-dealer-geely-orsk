@@ -6,7 +6,7 @@
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
@@ -76,7 +76,7 @@
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>да</metallic>
@@ -142,7 +142,7 @@
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
 			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Зеленый</color>
 			<metallic>да</metallic>
@@ -208,7 +208,7 @@
 			<folder_id>Cityray</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
@@ -276,7 +276,7 @@
 			<folder_id>Cityray</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
@@ -344,7 +344,7 @@
 			<folder_id>Cityray</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
@@ -399,7 +399,7 @@
 			<folder_id>Cityray</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
 			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
@@ -465,81 +465,12 @@
 			</multiposting>
 		<url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-лс-luxury-белый-2025/</url></car>
 		<car>
-			<unique_id>565beeb0d35569256b16696f44895436</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2025</year>
-			<price>4549990</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>100000</optional_discount>
-			<max_discount>650000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D7SS151628</vin>
-			<description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! Раccpочкa 0.01%. 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 740 000 руб. только до 31 января! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Оценка по Trade-In выше рынка 
-✔️ Лизинг без первоначального взноса
-✔️ Рассрочка 0.01% до 8 лет
-✔️ Тест-драйв
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/dfdb053c0dcc3fce94de0a5824ea391a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/82d478634460662d62ced0c66df0c05e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/4a9e66220071c4f505c12e6a918950df.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/2776b001a8efa99b404247703727af84.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/1e096847ba92d9c8414c14ea56766a72.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/8bf6bb8b58aa10106e77b08375e69cb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/28c31d67c40a65c22ca6e11a35d77876.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/16a4b5754e1c4cc280386f8a7ac2a291.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/9b7225b19ecc9cba2c74b633c5322dbb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/3974482a6b3db03d48a9914018adcabe.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/c733f52e560dcac7ce1c556fcf05bdef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/13fcd0638c33e3f488e96628d982ed14.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS151628/9341f68ec71dd88c65f73009c00ecdb1.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-orsk.ru/cars/geely-monjaro-20-at-238-лс-4wd-luxury-белый-2025/</url></car>
-		<car>
 			<unique_id>93109205f1dcdf2079fd883c23e4257f</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Okavango, I Рестайлинг</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
@@ -607,7 +538,7 @@
 			<folder_id>Okavango, I Рестайлинг</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Синий</color>
 			<metallic>да</metallic>
@@ -670,7 +601,7 @@
 		<car>
 			<unique_id>8065fd0af0df6f60cf73b2ed049b969e</unique_id>
 			<mark_id>Geely</mark_id>
-			<folder_id>Preface, I Рестайлинг 2</folder_id>
+			<folder_id>Preface, I</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Седан</body_type>
@@ -734,14 +665,14 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-orsk.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
+		<url>https://geely-orsk.ru/cars/geely-preface-i-20-amt-200-лс-flagship-серый-2024/</url></car>
 		<car>
 			<unique_id>f60849a923becbcc343c329cb7431e35</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
@@ -809,7 +740,7 @@
 			<folder_id>001</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
@@ -877,7 +808,7 @@
 			<folder_id>001</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>да</metallic>
