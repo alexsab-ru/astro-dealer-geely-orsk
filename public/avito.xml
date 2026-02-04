@@ -15,11 +15,11 @@
 			<run>10</run>
 			<year>2025</year>
 			<price>3970990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>237990</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>160000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>333000</max_discount>
+			<max_discount>570990</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S18SB151621</vin>
 			<description>Подарки всeм покупатeлям!
@@ -155,7 +155,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>190000</tradein_discount>
 			<optional_discount>70000</optional_discount>
-			<max_discount>380000</max_discount>
+			<max_discount>514990</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S9XSX703086</vin>
 			<description>Подарки всeм покупатeлям!
@@ -225,7 +225,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>190000</tradein_discount>
 			<optional_discount>70000</optional_discount>
-			<max_discount>380000</max_discount>
+			<max_discount>514990</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S93SX702829</vin>
 			<description>Подарки всeм покупатeлям!
@@ -282,7 +282,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>190000</tradein_discount>
 			<optional_discount>50000</optional_discount>
-			<max_discount>360000</max_discount>
+			<max_discount>515000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S92SX703518</vin>
 			<description>Подарки всeм покупатeлям!
@@ -493,7 +493,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>258000</tradein_discount>
 			<optional_discount>44190</optional_discount>
-			<max_discount>1062190</max_discount>
+			<max_discount>927200</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TFS1S85RD144728</vin>
 			<description>Подарки всeм покупатeлям!
@@ -563,7 +563,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>300000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>947000</max_discount>
+			<max_discount>1020000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD7RB007771</vin>
 			<description>Подарки всeм покупатeлям!
@@ -633,7 +633,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>300000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>947000</max_discount>
+			<max_discount>1020000</max_discount>
 			<currency>RUR</currency>
 			<vin>LHA022GD4RB008280</vin>
 			<description>Подарки всeм покупатeлям!
