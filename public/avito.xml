@@ -141,7 +141,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2025</year>
 			<price>3760990</price>
 			<credit_discount>410990</credit_discount>
@@ -450,7 +450,21 @@
 ------------------------
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/a1431087536a0b3b37ea240aed4b1104.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/af66722ab7d00adf0db2545f5b366084.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/68265c693696feff5d736bb2749e4e36.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/f82e4c957eaa42f4b8346e32efb4857d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/e58c5b42dd55a5aac0504f42b578aca3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/37905aa3a1e621a8313cede2095cc3b9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/684a8a59549df63d4cc610a752bcc8f9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/8c8ff152b450bee25c8294d0bcedb55a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/5f168f01a49807fc1d6657f39c8362bc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/87f5ba50b7f867b37df2af89676e0122.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/06742463284dddec8bc96c36259b23cb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/dd26637b8f40898bd0ef06b05c31d1c0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX704895/3ff4f9651cd12ffc03ca909ea3ac37e8.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
