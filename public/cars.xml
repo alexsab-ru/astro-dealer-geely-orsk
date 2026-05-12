@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<data><cars><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Белый</color><complectation_name>Flagship</complectation_name><credit_discount>420990</credit_discount><description>Подарки всeм покупатeлям!
+<data><cars><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Голубой</color><complectation_name>Люкс</complectation_name><credit_discount>194990</credit_discount><description>Подарки всeм покупатeлям!
 
 Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! 
 
@@ -14,7 +14,7 @@
 ❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
 ❗️ Перебьём любое предложение на рынке!
 
-Скидка для юр.лиц до 570 000 руб. только до 30 апреля ! Оформляем также в лизинг!
+Скидка для юр.лиц до 570 000 руб. только до 31 мая ! Оформляем также в лизинг!
 ------------------------
 
 НАШИ ПРЕИМУЩЕСТВА:
@@ -25,9 +25,34 @@
 ✔️ Лизинг без первоначального взноса
 ✔️ Пробная поездка
 
+Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
+
+ПВ – первоначальный взнос, ЕП – ежемесячный платеж
+
+На 5 лет:
+ПВ = 0 т.р. ЕП = от 70 т. р. ставка от 12,8%
+ПВ = 278 т.р. ЕП = от 63 т.р. ставка от 11,8%
+ПВ = 555 т.р. ЕП = от 51 т.р. ставка от 7,8 %
+ПВ = 833 т.р. ЕП = от 45 т.р. ставка от 7,1 %
+ПВ = 1’110 т.р. ЕП =  от 38 т.р. ставка 6,1%
+ПВ = 1’388 т.р. ЕП = от 31 т.р. ставка от 4,8 %
+ПВ = 1’665 т.р. ЕП = от 24 т.р. ставка от 1,7 %
+ПВ = 1’943 т.р. ЕП = от 17 т.р. ставка от 0,01 %
+
+На 7 лет:
+ПВ = 0 т.р. ЕП = от 87 т.р. ставка от 15,5 %
+ПВ = 420 т.р. ЕП = от 77 т.р. ставка от 15 %
+ПВ = 840 т.р. ЕП = от 62 т.р. ставка от 9,2 %
+ПВ = 1’260 т.р. ЕП = от 53 т.р. ставка от 8,5 %
+ПВ = 1’680 т.р. ЕП = от 44 т.р. ставка от 7,3 %
+ПВ = 2’100 т.р. ЕП = от 46 т.р. ставка от 6,3 %
+ПВ = 2’520 т.р. ЕП = от 28 т.р. ставка от 4,3 %
+ПВ = 2’940 т.р. ЕП = от 19 т.р. ставка от 1,7 %
+
+
 ------------------------
 ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description><folder_id>Atlas, II</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/0/full.webp?v=f69c7af45a8a</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/1/full.webp?v=93da4b7cbbe9</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/2/full.webp?v=9d334386ba5a</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/3/full.webp?v=8353ed12b3fc</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/4/full.webp?v=ea3d0d998bdd</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/5/full.webp?v=1cba3e395dd3</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/6/full.webp?v=d06818522c2f</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/7/full.webp?v=d557fcdb2d62</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/8/full.webp?v=19e56fd077c8</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/9/full.webp?v=3d48db4977a4</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/10/full.webp?v=6fff33984479</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/11/full.webp?v=4a4d1e971dd9</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/12/full.webp?v=3f58a95b77fa</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/13/full.webp?v=b026ce3a00d6</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/14/full.webp?v=894905186350</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/15/full.webp?v=7ccc4947d8ec</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/16/full.webp?v=b5b6d68c34dc</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/17/full.webp?v=79607497e2de</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/18/full.webp?v=d5a6a0507e24</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/19/full.webp?v=08e7583d8a10</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/20/full.webp?v=14fb299b6303</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/21/full.webp?v=bcc7fc581276</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/22/full.webp?v=ae6314643cb4</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/23/full.webp?v=6e79fa9a6523</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/24/full.webp?v=76b08305dc1f</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/25/full.webp?v=59b48207a90c</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>920990</max_discount><modification_id>2.0 AMT (200 л.с.)</modification_id><optional_discount>0</optional_discount><price>3970990</price><run>7</run><tradein_discount>500000</tradein_discount><vin>LB3FX1S16SB179904</vin><wheel>левый</wheel><year>2025</year><color_rus>Белый</color_rus><color_eng>white</color_eng><priceWithDiscount>3050000</priceWithDiscount><sale_price>3050000</sale_price><currency>RUR</currency><url>https://geely-orsk.ru/cars/geely-atlas-ii-20-amt-200-hp-flagship-white-2025/</url><model_name>Atlas</model_name><model_id>geely-atlas-2024</model_id><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3FX1S16SB179904/0/full.webp?v=f69c7af45a8a</image></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Голубой</color><complectation_name>Люкс</complectation_name><credit_discount>194990</credit_discount><description>Подарки всeм покупатeлям!
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/0/full.webp?v=75b406ff363d</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/1/full.webp?v=1c0207a1be90</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/2/full.webp?v=945f6495f094</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/3/full.webp?v=b9c67c46f960</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/4/full.webp?v=c4232b15fef0</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/5/full.webp?v=2d6a3c64d33c</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/6/full.webp?v=bda06d2b2a67</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/7/full.webp?v=bca944153f6a</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/8/full.webp?v=825cdb1b3dcc</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/9/full.webp?v=9115801c6840</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/10/full.webp?v=ccfdd04e1902</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/11/full.webp?v=74c45061c7ab</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/12/full.webp?v=d986a631b3ac</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/13/full.webp?v=630f4b58d4d4</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/14/full.webp?v=82374056b6db</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/15/full.webp?v=f9c156f6d7f0</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/16/full.webp?v=f13a371d8436</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/17/full.webp?v=563b0b3a6064</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/18/full.webp?v=0b282128c305</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/19/full.webp?v=b899a3c7fe23</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/20/full.webp?v=2654c995fd36</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/21/full.webp?v=1dac1d4211de</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/22/full.webp?v=b21d43201dfd</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/23/full.webp?v=4029af8917d5</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/24/full.webp?v=5c4fca2543f2</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/25/full.webp?v=77e1fff15697</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>464990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3094990</price><run>4</run><tradein_discount>270000</tradein_discount><vin>LB3G43S90TX402747</vin><wheel>левый</wheel><year>2026</year><color_rus>Голубой металлик</color_rus><color_eng>light-blue</color_eng><priceWithDiscount>2630000</priceWithDiscount><sale_price>2630000</sale_price><currency>RUR</currency><url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-luxury-light-blue-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/0/full.webp?v=75b406ff363d</image></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Белый</color><complectation_name>Флагман</complectation_name><credit_discount>114990</credit_discount><description>Подарки всeм покупатeлям!
 
 Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! 
 
@@ -42,7 +67,7 @@
 ❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
 ❗️ Перебьём любое предложение на рынке!
 
-Скидка для юр.лиц до 570 000 руб. только до 30 апреля ! Оформляем также в лизинг!
+Скидка для юр.лиц до 350 000 руб. только до 31 мая!  Оформляем также в лизинг!
 ------------------------
 
 НАШИ ПРЕИМУЩЕСТВА:
@@ -53,9 +78,35 @@
 ✔️ Лизинг без первоначального взноса
 ✔️ Пробная поездка
 
+Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
+
+ПВ – первоначальный взнос, ЕП – ежемесячный платеж
+
+На 5 лет:
+ПВ = 0 т.р. ЕП = от 71 т. р. ставка от 12,8%
+ПВ = 282 т.р. ЕП = от 64 т.р. ставка от 11,8%
+ПВ = 563 т.р. ЕП = от 52 т.р. ставка от 7,8 %
+ПВ = 845 т.р. ЕП = от 45 т.р. ставка от 7,1 %
+ПВ = 1’126 т.р. ЕП =  от 38 т.р. ставка 6,1%
+ПВ = 1’408 т.р. ЕП = от 32 т.р. ставка от 4,8 %
+ПВ = 1’689 т.р. ЕП = от 24 т.р. ставка от 1,7 %
+ПВ = 1’971  т.р. ЕП = от 18 т.р. ставка от 0,01 %
+
+На 7 лет:
+ПВ = 0 т.р. ЕП = от 59 т.р. ставка от 15,5 %
+ПВ = 282 т.р. ЕП = от 53 т.р. ставка от 15 %
+ПВ = 563 т.р. ЕП = от 42 т.р. ставка от 9,2 %
+ПВ = 845 т.р. ЕП = от 36 т.р. ставка от 8,5 %
+ПВ = 1’126 т.р. ЕП = от 30 т.р. ставка от 7,3 %
+ПВ = 1’408 т.р. ЕП = от 25 т.р. ставка от 6,3 %
+ПВ = 1’689 т.р. ЕП = от 19 т.р. ставка от 4,3 %
+ПВ = 1’971 т.р. ЕП = от 14 т.р. ставка от 1,7 %
+ПВ = 2’252 т.р. ЕП = от 9 т.р. ставка от 0,01 %
+
+
 ------------------------
 ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/0/full.webp?v=75b406ff363d</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/1/full.webp?v=1c0207a1be90</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/2/full.webp?v=945f6495f094</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/3/full.webp?v=b9c67c46f960</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/4/full.webp?v=c4232b15fef0</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/5/full.webp?v=2d6a3c64d33c</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/6/full.webp?v=bda06d2b2a67</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/7/full.webp?v=bca944153f6a</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/8/full.webp?v=825cdb1b3dcc</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/9/full.webp?v=9115801c6840</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/10/full.webp?v=ccfdd04e1902</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/11/full.webp?v=74c45061c7ab</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/12/full.webp?v=d986a631b3ac</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/13/full.webp?v=630f4b58d4d4</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/14/full.webp?v=82374056b6db</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/15/full.webp?v=f9c156f6d7f0</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/16/full.webp?v=f13a371d8436</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/17/full.webp?v=563b0b3a6064</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/18/full.webp?v=0b282128c305</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/19/full.webp?v=b899a3c7fe23</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/20/full.webp?v=2654c995fd36</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/21/full.webp?v=1dac1d4211de</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/22/full.webp?v=b21d43201dfd</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/23/full.webp?v=4029af8917d5</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/24/full.webp?v=5c4fca2543f2</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/25/full.webp?v=77e1fff15697</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>594990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3094990</price><run>4</run><tradein_discount>400000</tradein_discount><vin>LB3G43S90TX402747</vin><wheel>левый</wheel><year>2026</year><color_rus>Голубой металлик</color_rus><color_eng>light-blue</color_eng><priceWithDiscount>2500000</priceWithDiscount><sale_price>2500000</sale_price><currency>RUR</currency><url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-luxury-light-blue-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S90TX402747/0/full.webp?v=75b406ff363d</image></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Серый</color><complectation_name>Спорт</complectation_name><credit_discount>244990</credit_discount><description>Подарки всeм покупатeлям!
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/0/full.webp?v=4fbfd6e371b2</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/1/full.webp?v=e562ec76de19</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/2/full.webp?v=20598a5c60df</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/3/full.webp?v=5533ccfe7b0f</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/4/full.webp?v=314ac11e3402</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/5/full.webp?v=5f4070a4a8b7</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/6/full.webp?v=2c2e33617e49</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/7/full.webp?v=5b1495f55bdb</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/8/full.webp?v=875c0ab31aaa</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/9/full.webp?v=02c0d038429d</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/10/full.webp?v=57c91da45383</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/11/full.webp?v=e7da1d7d9982</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/12/full.webp?v=70bdfe18323c</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/13/full.webp?v=3dcf3306b70e</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>514990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3214990</price><run>6</run><tradein_discount>400000</tradein_discount><vin>LB3G43S95SX704193</vin><wheel>левый</wheel><year>2025</year><color_rus>Белый</color_rus><color_eng>white</color_eng><priceWithDiscount>2700000</priceWithDiscount><sale_price>2700000</sale_price><currency>RUR</currency><url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-flagship-white-2025/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/0/full.webp?v=4fbfd6e371b2</image></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Белый</color><complectation_name>Спорт</complectation_name><credit_discount>244990</credit_discount><description>Подарки всeм покупатeлям!
 
 Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания!  
 
@@ -70,7 +121,7 @@
 ❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
 ❗️ Перебьём любое предложение на рынке!
 
-Скидка для юр.лиц до 350 000 руб. только до 30 апреля!  Оформляем также в лизинг!
+Скидка для юр.лиц до 350 000 руб. только до 31 мая!  Оформляем также в лизинг!
 ------------------------
 
 НАШИ ПРЕИМУЩЕСТВА:
@@ -81,9 +132,34 @@
 ✔️ Лизинг без первоначального взноса
 ✔️ Пробная поездка
 
+Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
+
+ПВ – первоначальный взнос, ЕП – ежемесячный платеж
+
+На 5 лет:
+ПВ = 0 т.р. ЕП = от 71 т. р. ставка от 12,8%
+ПВ = 282 т.р. ЕП = от 64 т.р. ставка от 11,8%
+ПВ = 563 т.р. ЕП = от 52 т.р. ставка от 7,8 %
+ПВ = 845 т.р. ЕП = от 45 т.р. ставка от 7,1 %
+ПВ = 1’126 т.р. ЕП =  от 38 т.р. ставка 6,1%
+ПВ = 1’408 т.р. ЕП = от 32 т.р. ставка от 4,8 %
+ПВ = 1’689 т.р. ЕП = от 24 т.р. ставка от 1,7 %
+ПВ = 1’971  т.р. ЕП = от 18 т.р. ставка от 0,01 %
+
+На 7 лет:
+ПВ = 0 т.р. ЕП = от 59 т.р. ставка от 15,5 %
+ПВ = 282 т.р. ЕП = от 53 т.р. ставка от 15 %
+ПВ = 563 т.р. ЕП = от 42 т.р. ставка от 9,2 %
+ПВ = 845 т.р. ЕП = от 36 т.р. ставка от 8,5 %
+ПВ = 1’126 т.р. ЕП = от 30 т.р. ставка от 7,3 %
+ПВ = 1’408 т.р. ЕП = от 25 т.р. ставка от 6,3 %
+ПВ = 1’689 т.р. ЕП = от 19 т.р. ставка от 4,3 %
+ПВ = 1’971 т.р. ЕП = от 14 т.р. ставка от 1,7 %
+ПВ = 2’252 т.р. ЕП = от 9 т.р. ставка от 0,01 %
+
 ------------------------
 ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/0/full.webp?v=1893a3c62437</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/1/full.webp?v=726a2d5aab4a</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/2/full.webp?v=1a0778989f7c</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/3/full.webp?v=16a490ddbea0</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/4/full.webp?v=35d61e5aaf09</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/5/full.webp?v=0aee2f6989a2</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/6/full.webp?v=53f05a0123af</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/7/full.webp?v=d43b41f340e2</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/8/full.webp?v=4c60c8368330</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/9/full.webp?v=e22c04eaef85</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/10/full.webp?v=fa4f0ca4b76b</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/11/full.webp?v=4984ae797871</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/12/full.webp?v=de04b62bcbd1</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/13/full.webp?v=a6ee4f4c9373</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/14/full.webp?v=d5a32753c1ba</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/15/full.webp?v=948158c24a03</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/16/full.webp?v=b8a6ed1cae4c</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/17/full.webp?v=4b39a71451fc</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/18/full.webp?v=d58b25883a45</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/19/full.webp?v=ab0febe91bfd</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/20/full.webp?v=c18bdd48aca4</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/21/full.webp?v=4e1cb4eddea9</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/22/full.webp?v=23fd6639c39d</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/23/full.webp?v=81810455eee5</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/24/full.webp?v=9d9ba00f15c7</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/25/full.webp?v=470118b3f938</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>514990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3254990</price><run>4</run><tradein_discount>270000</tradein_discount><vin>LB3G43S94SX704895</vin><wheel>левый</wheel><year>2025</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><priceWithDiscount>2740000</priceWithDiscount><sale_price>2740000</sale_price><currency>RUR</currency><url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-sport-gray-2025/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S94SX704895/0/full.webp?v=1893a3c62437</image></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Белый</color><complectation_name>Флагман</complectation_name><credit_discount>114990</credit_discount><description>Подарки всeм покупатeлям!
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/0/full.webp?v=347b50e35d38</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/1/full.webp?v=6f7cd674847e</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/2/full.webp?v=9bf10af1c997</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/3/full.webp?v=62b0306034ca</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/4/full.webp?v=9381e1013008</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/5/full.webp?v=76cf6ec9e91d</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/6/full.webp?v=5285b2fa4329</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/7/full.webp?v=f1f004f1ba63</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/8/full.webp?v=2398130e9809</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/9/full.webp?v=a12b94457769</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/10/full.webp?v=b5d646c12c76</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/11/full.webp?v=5ed3cb9ec743</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/12/full.webp?v=26a2419c6df8</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/13/full.webp?v=e386932cfad8</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/14/full.webp?v=764e1526de65</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/15/full.webp?v=231d33ab9cba</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/16/full.webp?v=b6d7dd9c2c79</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/17/full.webp?v=83084548ffee</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/18/full.webp?v=1d37352ea80e</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/19/full.webp?v=86912c3dd110</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/20/full.webp?v=73b3f7dd963b</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/21/full.webp?v=9ce9c602f5ae</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/22/full.webp?v=3490bfd50b2e</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>514990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3254990</price><run>8</run><tradein_discount>270000</tradein_discount><vin>LB3G43S95SX704596</vin><wheel>левый</wheel><year>2025</year><color_rus>Белый</color_rus><color_eng>white</color_eng><priceWithDiscount>2740000</priceWithDiscount><sale_price>2740000</sale_price><currency>RUR</currency><url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-sport-white-2025/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/0/full.webp?v=347b50e35d38</image></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Серый</color><complectation_name>Люкс</complectation_name><credit_discount>194990</credit_discount><description>Подарки всeм покупатeлям!
 
 Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! 
 
@@ -98,7 +174,7 @@
 ❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
 ❗️ Перебьём любое предложение на рынке!
 
-Скидка для юр.лиц до 350 000 руб. только до 30 апреля!  Оформляем также в лизинг!
+Скидка для юр.лиц до 570 000 руб. только до 31 мая ! Оформляем также в лизинг!
 ------------------------
 
 НАШИ ПРЕИМУЩЕСТВА:
@@ -109,118 +185,30 @@
 ✔️ Лизинг без первоначального взноса
 ✔️ Пробная поездка
 
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/0/full.webp?v=4fbfd6e371b2</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/1/full.webp?v=e562ec76de19</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/2/full.webp?v=20598a5c60df</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/3/full.webp?v=5533ccfe7b0f</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/4/full.webp?v=314ac11e3402</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/5/full.webp?v=5f4070a4a8b7</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/6/full.webp?v=2c2e33617e49</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/7/full.webp?v=5b1495f55bdb</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/8/full.webp?v=875c0ab31aaa</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/9/full.webp?v=02c0d038429d</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/10/full.webp?v=57c91da45383</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/11/full.webp?v=e7da1d7d9982</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/12/full.webp?v=70bdfe18323c</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/13/full.webp?v=3dcf3306b70e</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>514990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3214990</price><run>4</run><tradein_discount>400000</tradein_discount><vin>LB3G43S95SX704193</vin><wheel>левый</wheel><year>2025</year><color_rus>Белый</color_rus><color_eng>white</color_eng><priceWithDiscount>2700000</priceWithDiscount><sale_price>2700000</sale_price><currency>RUR</currency><url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-flagship-white-2025/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704193/0/full.webp?v=4fbfd6e371b2</image></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Белый</color><complectation_name>Спорт</complectation_name><credit_discount>244990</credit_discount><description>Подарки всeм покупатeлям!
+Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
 
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания!  
+ПВ – первоначальный взнос, ЕП – ежемесячный платеж
 
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+На 5 лет:
+ПВ = 0 т.р. ЕП = от 70 т. р. ставка от 12,8%
+ПВ = 278 т.р. ЕП = от 63 т.р. ставка от 11,8%
+ПВ = 555 т.р. ЕП = от 51 т.р. ставка от 7,8 %
+ПВ = 833 т.р. ЕП = от 45 т.р. ставка от 7,1 %
+ПВ = 1’110 т.р. ЕП =  от 38 т.р. ставка 6,1%
+ПВ = 1’388 т.р. ЕП = от 31 т.р. ставка от 4,8 %
+ПВ = 1’665 т.р. ЕП = от 24 т.р. ставка от 1,7 %
+ПВ = 1’943 т.р. ЕП = от 17 т.р. ставка от 0,01 %
 
-⚡️⚡️ 5 ТО в подарок при покупке нового автомобиля - подробности уточняйте у продавца⚡️⚡️
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 350 000 руб. только до 30 апреля!  Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Программа обмена автомобиля 
-✔️ Лизинг без первоначального взноса
-✔️ Пробная поездка
+На 7 лет:
+ПВ = 0 т.р. ЕП = от 87 т.р. ставка от 15,5 %
+ПВ = 420 т.р. ЕП = от 77 т.р. ставка от 15 %
+ПВ = 840 т.р. ЕП = от 62 т.р. ставка от 9,2 %
+ПВ = 1’260 т.р. ЕП = от 53 т.р. ставка от 8,5 %
+ПВ = 1’680 т.р. ЕП = от 44 т.р. ставка от 7,3 %
+ПВ = 2’100 т.р. ЕП = от 46 т.р. ставка от 6,3 %
+ПВ = 2’520 т.р. ЕП = от 28 т.р. ставка от 4,3 %
+ПВ = 2’940 т.р. ЕП = от 19 т.р. ставка от 1,7 %
 
 ------------------------
 ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/0/full.webp?v=347b50e35d38</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/1/full.webp?v=6f7cd674847e</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/2/full.webp?v=9bf10af1c997</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/3/full.webp?v=62b0306034ca</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/4/full.webp?v=9381e1013008</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/5/full.webp?v=76cf6ec9e91d</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/6/full.webp?v=5285b2fa4329</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/7/full.webp?v=f1f004f1ba63</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/8/full.webp?v=2398130e9809</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/9/full.webp?v=a12b94457769</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/10/full.webp?v=b5d646c12c76</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/11/full.webp?v=5ed3cb9ec743</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/12/full.webp?v=26a2419c6df8</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/13/full.webp?v=e386932cfad8</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/14/full.webp?v=764e1526de65</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/15/full.webp?v=231d33ab9cba</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/16/full.webp?v=b6d7dd9c2c79</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/17/full.webp?v=83084548ffee</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/18/full.webp?v=1d37352ea80e</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/19/full.webp?v=86912c3dd110</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/20/full.webp?v=73b3f7dd963b</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/21/full.webp?v=9ce9c602f5ae</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/22/full.webp?v=3490bfd50b2e</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>514990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3254990</price><run>7</run><tradein_discount>270000</tradein_discount><vin>LB3G43S95SX704596</vin><wheel>левый</wheel><year>2025</year><color_rus>Белый</color_rus><color_eng>white</color_eng><priceWithDiscount>2740000</priceWithDiscount><sale_price>2740000</sale_price><currency>RUR</currency><url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-sport-white-2025/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S95SX704596/0/full.webp?v=347b50e35d38</image></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Белый</color><complectation_name>Флагман</complectation_name><credit_discount>114990</credit_discount><description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-⚡️⚡️ 5 ТО в подарок при покупке нового автомобиля - подробности уточняйте у продавца⚡️⚡️
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 350 000 руб. только до 30 апреля!  Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Программа обмена автомобиля 
-✔️ Лизинг без первоначального взноса
-✔️ Пробная поездка
-
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/0/full.webp?v=5f5b0d604587</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/1/full.webp?v=6c01a64e5c73</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/2/full.webp?v=28c1d58489a6</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/3/full.webp?v=7cca1cb0bc10</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/4/full.webp?v=6311b611db18</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/5/full.webp?v=60d9a46d422e</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/6/full.webp?v=303ab4542296</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/7/full.webp?v=57d8ce8286c6</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/8/full.webp?v=111a157e8388</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/9/full.webp?v=5d72292cc603</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/10/full.webp?v=d58679b2b01d</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/11/full.webp?v=147c0bc14379</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/12/full.webp?v=d7810ca994f7</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/13/full.webp?v=fadd246a2ff8</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/14/full.webp?v=f504cfab1926</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>514990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3214990</price><run>5</run><tradein_discount>400000</tradein_discount><vin>LB3G43S99SX706478</vin><wheel>левый</wheel><year>2025</year><color_rus>Белый</color_rus><color_eng>white</color_eng><priceWithDiscount>2700000</priceWithDiscount><sale_price>2700000</sale_price><currency>RUR</currency><url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-flagship-white-2025/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99SX706478/0/full.webp?v=5f5b0d604587</image></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Серый</color><complectation_name>Люкс</complectation_name><credit_discount>194990</credit_discount><description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-⚡️⚡️ 5 ТО в подарок при покупке нового автомобиля - подробности уточняйте у продавца⚡️⚡️
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 570 000 руб. только до 30 апреля ! Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Программа обмена автомобиля 
-✔️ Лизинг без первоначального взноса
-✔️ Пробная поездка
-
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description><folder_id>Cityray</folder_id><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>594990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3094990</price><run>4</run><tradein_discount>400000</tradein_discount><vin>LB3G43S99TX402486</vin><wheel>левый</wheel><year>2026</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><priceWithDiscount>2500000</priceWithDiscount><sale_price>2500000</sale_price><currency>RUR</currency><url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-luxury-gray-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Серебристый</color><complectation_name>Флагман</complectation_name><credit_discount>114990</credit_discount><description>Подарки всeм покупатeлям!
-
-Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания! 
-
-Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
-
-⚡️⚡️ 5 ТО в подарок при покупке нового автомобиля - подробности уточняйте у продавца⚡️⚡️
-------------------------
-
-Выгодно у нас, потому что:
-
-❗️ Реализация склада новых автомобилей Gееly
-❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
-❗️ Перебьём любое предложение на рынке!
-
-Скидка для юр.лиц до 350 000 руб. только до 30 апреля!  Оформляем также в лизинг!
-------------------------
-
-НАШИ ПРЕИМУЩЕСТВА:
-
-✔️ Дополнительное оборудование*
-✔️ Шинный отель*
-✔️ Программа обмена автомобиля 
-✔️ Лизинг без первоначального взноса
-✔️ Пробная поездка
-
-------------------------
-ООО «Партнер-Восток»
-Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/0/full.webp?v=9088eaae03e6</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/1/full.webp?v=2039369fafb2</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/2/full.webp?v=99906dc07875</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/3/full.webp?v=d9fd278dc93f</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/4/full.webp?v=470ed4dff4f9</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/5/full.webp?v=ad1b78f99ce8</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/6/full.webp?v=a58efb157c56</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/7/full.webp?v=6d08c1b876e7</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/8/full.webp?v=14ed8b4e21d0</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/9/full.webp?v=8586736234a0</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/10/full.webp?v=2553a57159f5</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/11/full.webp?v=15850e948e43</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/12/full.webp?v=dbfcadc275c6</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/13/full.webp?v=04a7199e0d94</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/14/full.webp?v=93b382806d04</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/15/full.webp?v=ac91d8d02343</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/16/full.webp?v=902f676b0bf1</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/17/full.webp?v=2c835a029528</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/18/full.webp?v=15ac0839cc38</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>514990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3214990</price><run>6</run><tradein_discount>400000</tradein_discount><vin>LB3G43S9XSX704027</vin><wheel>левый</wheel><year>2025</year><color_rus>Серебристый металлик</color_rus><color_eng>silver-metallic</color_eng><priceWithDiscount>2700000</priceWithDiscount><sale_price>2700000</sale_price><currency>RUR</currency><url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-flagship-silver-metallic-2025/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S9XSX704027/0/full.webp?v=9088eaae03e6</image></car></cars></data>
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/0/full.webp?v=dee2d0335cc6</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/1/full.webp?v=461a2d0747a2</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/2/full.webp?v=d04b38e51023</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/3/full.webp?v=9e311feb67b5</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/4/full.webp?v=2264a082643f</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/5/full.webp?v=ed1e11a50214</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/6/full.webp?v=a5fccdb5a3f4</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/7/full.webp?v=b8b699cebace</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/8/full.webp?v=676451b1f46a</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/9/full.webp?v=999719409f1d</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/10/full.webp?v=4caae0c36022</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/11/full.webp?v=4557f2936ac6</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/12/full.webp?v=f558d492658e</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/13/full.webp?v=53cc42efef80</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/14/full.webp?v=dd9e4127c5e5</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/15/full.webp?v=035ae41d546f</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/16/full.webp?v=e4e9da2d4dc5</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/17/full.webp?v=aec2e20c6ad5</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/18/full.webp?v=fed669b22ca5</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/19/full.webp?v=dc0b68c0d170</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/20/full.webp?v=198789171d6e</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/21/full.webp?v=243e9bf23280</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/22/full.webp?v=f320ab6633ea</image><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/23/full.webp?v=1b457364f527</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>464990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3094990</price><run>6</run><tradein_discount>270000</tradein_discount><vin>LB3G43S99TX402486</vin><wheel>левый</wheel><year>2026</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><priceWithDiscount>2630000</priceWithDiscount><sale_price>2630000</sale_price><currency>RUR</currency><url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-luxury-gray-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-orsk.ru/new/LB3G43S99TX402486/0/full.webp?v=dee2d0335cc6</image></car></cars></data>
