@@ -4,5 +4,11 @@
     "model": "Cityray",
     "price": 2630000,
     "benefit": 514990
+  },
+  {
+    "brand": "Geely",
+    "model": "OKAVANGO",
+    "price": 2880000,
+    "benefit": 1108990
   }
 ]
