@@ -51,7 +51,34 @@
 ------------------------
 ООО «Партнер-Восток»
 Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/0359a2033764bacdb8c89783a460c11e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/8e3b495190424ca1c38841d2e6761daf.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/d514032b5a6598e598386e901c59a979.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/2c0c103b8c7824999fc0e7cff036b45d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/75b1af9feea3673e30705b2aa3d8c96c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/dca7b3c01ad6eac80734b8de6f4cfe19.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/47c6f86700dbd396a853b5e4f16849b3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/ff393cf01677de766b3afc34432e862f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/cf879cb012084ffd99205b970239b744.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/6b9215fa0de6d85ea217e01ed647a271.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/8b375acf57fb0f8102d14baebfe7f9cb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/5090fdeed86d6a7640373d552136935c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/4225829f18569f6515132058a57e3ab6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/91093aa6d392563850d5485663e0a45f.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/da7950f10faf1cf8f8f813b08da58b9c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/51cf20e9ed35dabc9ea5614234b1bc06.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/753ad5f5225b9b69598815467483e03e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/87cb37b3ae76fe0628a544bd656f3bc2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/f58f7253492af29611c866e881faee18.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/422d2e7b5a00c2467842b21ffa440e2d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/927ae092ccbe30d5a0c8adf4a09dc648.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/e5a7ca2157a9e5b4aff0baba40578fe2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/4a688e6fd7decbce623f7962c9ca70dd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/af816daffc9827e1af1910e700722677.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/b2517ed44886d1f66d782718298a8c6d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/969f4d9fe8ea3b788c99288dd3345433.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -124,7 +151,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2026</year>
 			<price>3219990</price>
 			<credit_discount>284990</credit_discount>
