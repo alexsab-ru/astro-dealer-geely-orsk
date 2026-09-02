@@ -1,28 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<data>
-  <cars><car>
-			<unique_id>a5417718febd79ca0c4dfee2c423e888</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2026</year>
-			<price>4119990</price>
-			<credit_discount>420990</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>620990</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S16TB080033</vin>
-			<description>Партнер-Авто Орск официальный дилер GEELY
+<Ads><Ad>
+		<Id>a5417718febd79ca0c4dfee2c423e888</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
 
  Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
 
@@ -76,62 +60,66 @@
 
 ☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
 
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/0359a2033764bacdb8c89783a460c11e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/8e3b495190424ca1c38841d2e6761daf.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/d514032b5a6598e598386e901c59a979.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/2c0c103b8c7824999fc0e7cff036b45d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/75b1af9feea3673e30705b2aa3d8c96c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/dca7b3c01ad6eac80734b8de6f4cfe19.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/47c6f86700dbd396a853b5e4f16849b3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/ff393cf01677de766b3afc34432e862f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/cf879cb012084ffd99205b970239b744.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/6b9215fa0de6d85ea217e01ed647a271.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/8b375acf57fb0f8102d14baebfe7f9cb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/5090fdeed86d6a7640373d552136935c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/4225829f18569f6515132058a57e3ab6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/91093aa6d392563850d5485663e0a45f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/da7950f10faf1cf8f8f813b08da58b9c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/51cf20e9ed35dabc9ea5614234b1bc06.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/753ad5f5225b9b69598815467483e03e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/87cb37b3ae76fe0628a544bd656f3bc2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/f58f7253492af29611c866e881faee18.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/422d2e7b5a00c2467842b21ffa440e2d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/927ae092ccbe30d5a0c8adf4a09dc648.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/e5a7ca2157a9e5b4aff0baba40578fe2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/4a688e6fd7decbce623f7962c9ca70dd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/af816daffc9827e1af1910e700722677.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/b2517ed44886d1f66d782718298a8c6d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S16TB080033/969f4d9fe8ea3b788c99288dd3345433.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-orsk.ru/cars/geely-atlas-ii-20-amt-200-hp-flagship-white-2026/</url></car>
-		<car>
-			<unique_id>0936f2b938cb9b31491bb259942d45ae</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2026</year>
-			<price>4119990</price>
-			<credit_discount>420990</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>620990</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S17TB078100</vin>
-			<description>Партнер-Авто Орск официальный дилер GEELY
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>4119990</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>420990</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>620990</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/0359a2033764bacdb8c89783a460c11e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/8e3b495190424ca1c38841d2e6761daf.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/d514032b5a6598e598386e901c59a979.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/2c0c103b8c7824999fc0e7cff036b45d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/75b1af9feea3673e30705b2aa3d8c96c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/dca7b3c01ad6eac80734b8de6f4cfe19.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/47c6f86700dbd396a853b5e4f16849b3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/ff393cf01677de766b3afc34432e862f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/cf879cb012084ffd99205b970239b744.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/6b9215fa0de6d85ea217e01ed647a271.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/8b375acf57fb0f8102d14baebfe7f9cb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/5090fdeed86d6a7640373d552136935c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/4225829f18569f6515132058a57e3ab6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/91093aa6d392563850d5485663e0a45f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/da7950f10faf1cf8f8f813b08da58b9c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/51cf20e9ed35dabc9ea5614234b1bc06.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/753ad5f5225b9b69598815467483e03e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/87cb37b3ae76fe0628a544bd656f3bc2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/f58f7253492af29611c866e881faee18.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/422d2e7b5a00c2467842b21ffa440e2d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/927ae092ccbe30d5a0c8adf4a09dc648.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/e5a7ca2157a9e5b4aff0baba40578fe2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/4a688e6fd7decbce623f7962c9ca70dd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/af816daffc9827e1af1910e700722677.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/b2517ed44886d1f66d782718298a8c6d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S16TB080033/969f4d9fe8ea3b788c99288dd3345433.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Atlas</Model>
+		<GenerationId>18767585</GenerationId>
+		<ModificationId>22045603</ModificationId>
+		<ComplectationId>22045604</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3FX1S16TB080033</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>0936f2b938cb9b31491bb259942d45ae</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
 
  Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
 
@@ -185,57 +173,173 @@
 
 ☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
 
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/52e20a22b8d1eaf731587440818e4dc9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/06a6af41e082d731b32d2e94435301cc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/db7f95c7fc4bdc0ddfd3623a41475821.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/44ae67dfc42bebcd18b86d0f9e7c81af.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/3fbc8ed6e6f460a0c7c364824702eaaa.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/74a89bf0042cde02e2384ab2a91032f5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/4ab57e663a6ad3040f1b79c6c3b102d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/fcd134249b3be8364963b7fda0f35527.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/28a6b71ebbbddf90f205ec5947b8fe12.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/e151ec0247efc5132fc4d50bbf18458f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/44f79cfed72c4c7b0cca49a458e0de37.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/5d7759a60934cb6dae2e0bcba73018a9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/98e74c9ea7d5198f2b82593a18239178.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/1eeae90ca8c222205b0d11c54085e802.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/2c0d336bbdd773d36bd90f91a6f2e396.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/503c098017ff96c88010718bd59ff686.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/537feb09b6c97925637f4628d5d8c103.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/f977d43f9798624a478e2d3d0ab25cda.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/dcb78ed515748937788b4902160fa1b1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/98471b7447daa663db6c84572256c1b1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S17TB078100/818cfde23a8c72368f67ce1a582ab205.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-orsk.ru/cars/geely-atlas-ii-20-amt-200-hp-flagship-silver-2026/</url></car>
-		<car>
-			<unique_id>7aea826e5b24d74ec5451bfc064a8bb7</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Cityray</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Спорт</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Голубой</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2026</year>
-			<price>3384990</price>
-			<credit_discount>284990</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>554990</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3G43S98TX406416</vin>
-			<description>Партнер-Авто Орск официальный дилер GEELY
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>4119990</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>420990</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>620990</MaxDiscount>
+		<Color>Серый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/52e20a22b8d1eaf731587440818e4dc9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/06a6af41e082d731b32d2e94435301cc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/db7f95c7fc4bdc0ddfd3623a41475821.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/44ae67dfc42bebcd18b86d0f9e7c81af.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/3fbc8ed6e6f460a0c7c364824702eaaa.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/74a89bf0042cde02e2384ab2a91032f5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/4ab57e663a6ad3040f1b79c6c3b102d7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/fcd134249b3be8364963b7fda0f35527.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/28a6b71ebbbddf90f205ec5947b8fe12.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/e151ec0247efc5132fc4d50bbf18458f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/44f79cfed72c4c7b0cca49a458e0de37.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/5d7759a60934cb6dae2e0bcba73018a9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/98e74c9ea7d5198f2b82593a18239178.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/1eeae90ca8c222205b0d11c54085e802.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/2c0d336bbdd773d36bd90f91a6f2e396.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/503c098017ff96c88010718bd59ff686.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/537feb09b6c97925637f4628d5d8c103.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/f977d43f9798624a478e2d3d0ab25cda.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/dcb78ed515748937788b4902160fa1b1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/98471b7447daa663db6c84572256c1b1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S17TB078100/818cfde23a8c72368f67ce1a582ab205.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Atlas</Model>
+		<GenerationId>18767585</GenerationId>
+		<ModificationId>22045603</ModificationId>
+		<ComplectationId>22045604</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3FX1S17TB078100</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>92add8cf180fcaa67f7fb78758fdf612</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
+
+ Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
+
+Услуги сервисного центра:
+⚡  сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY ATLAS Люкс  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’759 990 руб. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+4)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+5)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+6)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 450 000 т.р. :
+- защита картера и КПП двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- подкрылки с шумоизоляцией
+- электрические выдвижные оригинальные пороги
+- полная антикоррозионная обработка арок и дна автомобиля
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров , без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’289 990 руб.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 310 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>3449990</Price>
+		<TradeinDiscount>260000</TradeinDiscount>
+		<CreditDiscount>430000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>690000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/6f559b1f2384b65347bf5fe23d391ca0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/4e68ae4620a4f516ff074937c26f87e7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/ffa060ccc2d6fae1bc239a899b9945e6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/d5f2165e12826fc0ded9d33897634a9e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/f92634d742c2fc7b44d825ce597c18e2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/938043d8511fc38dc3486bb56f28d416.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/64705630a5f292033553f792feea57a5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/194cbfbc95cc6c617dd12ad37d8b90e9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/3cc1b90244085160d5f55f83b6d82337.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/fa166627ff2fd6498d8fcf0d3bbe6260.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/7d0e9b780fed82e9ad5371f0f17f70d4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/f8d15c0b95bad09cfe51e93e6c43a568.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/fe3c525b43f6aaf0133622a9c483ceb1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/3e481f538a015a87da9f4a55e5479992.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/dda094110ba9b8c574d0a3abeaceaba9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/b57027455fdec198667f7709a1fd5a88.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/a957bf3e09e8abe3dfa9f8728b63e4ac.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/b2dacff0430cbdd42bd17d2e08a83c70.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/66f28f66919a423da06c8b686e7af032.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/3ca48e2f14892b6b266014f952f89785.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/0635d658dde6262329de43138619049d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/e260ea9490097e37f9a500e6bdb18a23.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/6210cd3021bab909ac1a12259c3be50b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/75a6d5ba626963f5ede5d01d610ccd7a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S79TB065577/c83831e12945ba8adf34f0245adc1767.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Atlas</Model>
+		<GenerationId>18767585</GenerationId>
+		<ModificationId>22531416</ModificationId>
+		<ComplectationId>22531417</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3FX1S79TB065577</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>7aea826e5b24d74ec5451bfc064a8bb7</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
 
  Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
 
@@ -292,60 +396,64 @@
 
 ☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
 
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/5f1bb3c2c871d416d002829ca71faa10.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/f0f4e8ae7438c6806f2474f6fc9f8a7b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/449dfb7adf209749156d7db42dcf8382.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/0ca4fb9b6ac51e6a20565c2667cf9d33.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/e5966c179dea470777c358aef8bdce70.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/8c78249d43f0ccfba6aea67241e8ee9f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/e32e9f1443f417ef279e1bdeefc9a907.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/aacf481a384eb3b8584050a1e243a5a9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/9f5685c612fc7dfbab7136727303f947.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/c622feaaea808973bc188b0b1f0f2c89.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/c495ef53940d1b1ce5bcd396d74a6c6b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/e1962f770b5770bbc824e5958ddabdec.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/08bd3b6b02eecf3111cd1e9ae05e1a19.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/1395e77fdb2caf3afc8490b2204719d6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/129cd50cde7aaf3c83c21a2bf00c3604.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/0d464c7dba40929f9a6249b471105ac1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/c83f699ebbff5e33cbd8c780612228c8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/835e5f6147a25f7b81a942689847f040.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/f3a05d4d234303ff3d7e7990f126bb21.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/029aeb62ecb56eb14950a5364a7cd4fe.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/3e6f4d8a9f6ae838f14db1e9534ffe89.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/0debe7560252efb2966eb312c8761b3c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/80a9c7d8c61ad2cf642ea82a6ae4d637.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S98TX406416/34d0ae60c2ecd4baf2b8947ac24c9f1a.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-sport-light-blue-2026/</url></car>
-		<car>
-			<unique_id>ee5dd99b756b38cbd3ef3a320a24f1e2</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Cityray</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Люкс</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2026</year>
-			<price>3204990</price>
-			<credit_discount>359990</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>629990</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3G43S92TX407240</vin>
-			<description>Партнер-Авто Орск официальный дилер GEELY
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>3384990</Price>
+		<TradeinDiscount>270000</TradeinDiscount>
+		<CreditDiscount>284990</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>554990</MaxDiscount>
+		<Color>Голубой</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/5f1bb3c2c871d416d002829ca71faa10.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/f0f4e8ae7438c6806f2474f6fc9f8a7b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/449dfb7adf209749156d7db42dcf8382.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/0ca4fb9b6ac51e6a20565c2667cf9d33.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/e5966c179dea470777c358aef8bdce70.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/8c78249d43f0ccfba6aea67241e8ee9f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/e32e9f1443f417ef279e1bdeefc9a907.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/aacf481a384eb3b8584050a1e243a5a9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/9f5685c612fc7dfbab7136727303f947.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/c622feaaea808973bc188b0b1f0f2c89.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/c495ef53940d1b1ce5bcd396d74a6c6b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/e1962f770b5770bbc824e5958ddabdec.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/08bd3b6b02eecf3111cd1e9ae05e1a19.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/1395e77fdb2caf3afc8490b2204719d6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/129cd50cde7aaf3c83c21a2bf00c3604.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/0d464c7dba40929f9a6249b471105ac1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/c83f699ebbff5e33cbd8c780612228c8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/835e5f6147a25f7b81a942689847f040.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/f3a05d4d234303ff3d7e7990f126bb21.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/029aeb62ecb56eb14950a5364a7cd4fe.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/3e6f4d8a9f6ae838f14db1e9534ffe89.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/0debe7560252efb2966eb312c8761b3c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/80a9c7d8c61ad2cf642ea82a6ae4d637.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S98TX406416/34d0ae60c2ecd4baf2b8947ac24c9f1a.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Cityray</Model>
+		<GenerationId>22127398</GenerationId>
+		<ModificationId>22127399</ModificationId>
+		<ComplectationId>22127402</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3G43S98TX406416</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>ee5dd99b756b38cbd3ef3a320a24f1e2</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
 
  Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
 
@@ -402,60 +510,64 @@
 
 ☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
 
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/50479c4fb06b7f48624ca3fdee6b1d07.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/03c98f5fd9c4073a5fe9ef30fd698f0e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/2754781f9b7c7a0a479a0e32e52dc96b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/c3a6888a10d0634c8ba5731a3a49cadb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/2d5bad5c0fb7f1fc0550e9051b4bec6f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/ca8ee946216529ed8de9ee4758dd9c4c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/4a522bd19b824fe8091b773cbbbaff77.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/9fce81f275fec5df6206f7dceb287579.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/d9356bdcff4b0adac05451e9ef6d4973.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/84df671a1a381d0834d9d30b9bff20b5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/372e331603865313ac1aeab69fca3e08.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/64d0b8f156c78e795384cfe0cc6db1d3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/118a62ab86ad3c528808f3c4efde5d4c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/16ef23d90217b06ebc0fd54195d5057a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/bb3e80f6337e922ae15d80195ddc60d6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/4b9338874f9283cecb0f778a80a0584d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/de11f7b19115e781a93584876b53a044.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/e0ad653e17d068ae5109846e49dbbd19.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/5ec75966b5cd21f875082dc648cd3b17.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/15dbd8fa2d6c063fdab6c88d2c3af6f7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/a59548935e7e236d4dd3ef3dd162d93c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/fc45744431e087d68fd87e9ff4250849.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/5dcaf042aba8b14d729752ccb6c5da36.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S92TX407240/1679e484abb6104cb0ee18a3f6fddf22.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-luxury-gray-2026/</url></car>
-		<car>
-			<unique_id>31dad3beaeeff3bc0bcf62d1e55fd0cc</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Cityray</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Люкс</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Голубой</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2026</year>
-			<price>3204990</price>
-			<credit_discount>359990</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>629990</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3G43S90TX402747</vin>
-			<description>Партнер-Авто Орск официальный дилер GEELY
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>3204990</Price>
+		<TradeinDiscount>270000</TradeinDiscount>
+		<CreditDiscount>359990</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>629990</MaxDiscount>
+		<Color>Серый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/50479c4fb06b7f48624ca3fdee6b1d07.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/03c98f5fd9c4073a5fe9ef30fd698f0e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/2754781f9b7c7a0a479a0e32e52dc96b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/c3a6888a10d0634c8ba5731a3a49cadb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/2d5bad5c0fb7f1fc0550e9051b4bec6f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/ca8ee946216529ed8de9ee4758dd9c4c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/4a522bd19b824fe8091b773cbbbaff77.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/9fce81f275fec5df6206f7dceb287579.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/d9356bdcff4b0adac05451e9ef6d4973.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/84df671a1a381d0834d9d30b9bff20b5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/372e331603865313ac1aeab69fca3e08.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/64d0b8f156c78e795384cfe0cc6db1d3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/118a62ab86ad3c528808f3c4efde5d4c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/16ef23d90217b06ebc0fd54195d5057a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/bb3e80f6337e922ae15d80195ddc60d6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/4b9338874f9283cecb0f778a80a0584d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/de11f7b19115e781a93584876b53a044.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/e0ad653e17d068ae5109846e49dbbd19.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/5ec75966b5cd21f875082dc648cd3b17.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/15dbd8fa2d6c063fdab6c88d2c3af6f7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/a59548935e7e236d4dd3ef3dd162d93c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/fc45744431e087d68fd87e9ff4250849.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/5dcaf042aba8b14d729752ccb6c5da36.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S92TX407240/1679e484abb6104cb0ee18a3f6fddf22.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Cityray</Model>
+		<GenerationId>22127398</GenerationId>
+		<ModificationId>22127399</ModificationId>
+		<ComplectationId>22127403</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3G43S92TX407240</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>31dad3beaeeff3bc0bcf62d1e55fd0cc</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
 
  Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
 
@@ -512,62 +624,66 @@
 
 ☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
 
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/1d627e5cbb489e553cdaf54c48c2e346.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/7057f3a745c668f1b949fcffe2da3630.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/c4527523b8ce523a60c78f98a2a4bdbc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/0fc60219a85fd945177d8f7bf21437c1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/47c968557ab5532c70147014efef3753.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/53f7aa925fa9d9da7902ff64c3c66e56.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/aaa0a958ab90b753d918e1eccc3d13e7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/3708aa377de55ef895d09ef4919669cc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/2eece9f817a0765317d47362039af0a7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/db56120283e831fa52c66ac45c9b05c3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/19ef05d96de242495e98d926da599d93.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/e71ff08a3710860ec81a1d28876a418e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/3a79460abb793d278238e63ec032fb40.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/03405518c943515104de1c99f9e1f8c5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/4adaac9cb74268dcafdf3d61bf7faf10.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/e073162a76b283ace26b854ae66c1fa6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/92183916d802762875a50cbf1df0b09b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/d7aa445c00e3d1cc44cf32ed6d18fa99.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/1b08f8a66ed1f768a3c00f9c0a1a8605.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/1ca2d0f4d499e880a6208ca4a4acf62e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/5e415697ab429366ad49dc96a754196f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/fb494052bb56a209aedfb4003a12c75e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/6efb77e5051e2b7521ae95a6f2f41220.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/558357bb2702158f7adfd1d86ec0da8f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/b0467ea6a29b4f145eb49b2aeec9e50d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S90TX402747/86d4c4b2abac36a9202f72ad14af15d1.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-luxury-light-blue-2026/</url></car>
-		<car>
-			<unique_id>f3b1ffe3de27e248812720dfcd22835d</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Cityray</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Люкс</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Голубой</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2026</year>
-			<price>3204990</price>
-			<credit_discount>359990</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>629990</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3G43S90TX403753</vin>
-			<description>Партнер-Авто Орск официальный дилер GEELY
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>3204990</Price>
+		<TradeinDiscount>270000</TradeinDiscount>
+		<CreditDiscount>359990</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>629990</MaxDiscount>
+		<Color>Голубой</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/1d627e5cbb489e553cdaf54c48c2e346.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/7057f3a745c668f1b949fcffe2da3630.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/c4527523b8ce523a60c78f98a2a4bdbc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/0fc60219a85fd945177d8f7bf21437c1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/47c968557ab5532c70147014efef3753.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/53f7aa925fa9d9da7902ff64c3c66e56.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/aaa0a958ab90b753d918e1eccc3d13e7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/3708aa377de55ef895d09ef4919669cc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/2eece9f817a0765317d47362039af0a7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/db56120283e831fa52c66ac45c9b05c3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/19ef05d96de242495e98d926da599d93.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/e71ff08a3710860ec81a1d28876a418e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/3a79460abb793d278238e63ec032fb40.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/03405518c943515104de1c99f9e1f8c5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/4adaac9cb74268dcafdf3d61bf7faf10.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/e073162a76b283ace26b854ae66c1fa6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/92183916d802762875a50cbf1df0b09b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/d7aa445c00e3d1cc44cf32ed6d18fa99.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/1b08f8a66ed1f768a3c00f9c0a1a8605.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/1ca2d0f4d499e880a6208ca4a4acf62e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/5e415697ab429366ad49dc96a754196f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/fb494052bb56a209aedfb4003a12c75e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/6efb77e5051e2b7521ae95a6f2f41220.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/558357bb2702158f7adfd1d86ec0da8f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/b0467ea6a29b4f145eb49b2aeec9e50d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S90TX402747/86d4c4b2abac36a9202f72ad14af15d1.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Cityray</Model>
+		<GenerationId>22127398</GenerationId>
+		<ModificationId>22127399</ModificationId>
+		<ComplectationId>22127403</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3G43S90TX402747</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>f3b1ffe3de27e248812720dfcd22835d</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
 
  Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
 
@@ -624,11 +740,1099 @@
 
 ☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
 
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-orsk.ru/cars/geely-cityray-15-amt-147-hp-luxury-light-blue-2026/</url></car>
-	</cars>
-</data>
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>3204990</Price>
+		<TradeinDiscount>270000</TradeinDiscount>
+		<CreditDiscount>359990</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>629990</MaxDiscount>
+		<Color>Голубой</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Cityray</Model>
+		<GenerationId>22127398</GenerationId>
+		<ModificationId>22127399</ModificationId>
+		<ComplectationId>22127403</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3G43S90TX403753</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>fade815063196e2f16f87eaee0cd66b9</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания!. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+⚡️⚡️ 5 ТО в подарок при покупке нового автомобиля - подробности уточняйте у продавца⚡️⚡️
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 516 000 руб. только до 31 августа ! Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Дополнительное оборудование*
+✔️ Шинный отель*
+✔️ Программа обена автомобиля
+✔️ Лизинг без первоначального взноса
+✔️ Пробная поездка
+
+
+Не является публичной офертой. Оценивайте свои возможности и риски.
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</Description>
+		<Price>2964990</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>400000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/2526506e6812a5abfe44e718f11ae7b2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/01df3a2b80d2de942140a94f03064752.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/a204c2c3f489ac860d5291cbdf60bb3a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/4c6f1e74836d716d15ca9fd0d427492e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/197a40ff9a014fa29d175bae1ec0b42f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/201904f323967e09feefc96352fa38a1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/11a938228f9168ad533d8c4564a476f6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/b04f9870aad54560cb0fcc9c58ff4668.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/2772955e37fc1d5e6e8abc0fc46a105b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/532ef2301a9ecd546b16acae08d510b1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/5b5eaa4779bf05836a2ffc219715c826.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/d667a5e73389d7c372863caf2620cb34.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/52344cf4aed363e1e84a6021ee6129f7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/f3faf4fb55ad7e85fc4c61c8a92da03e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/5ef7e00438eff0513704a3a106765991.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/dee0988712179d5a31cbb3c5fcadc1db.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/87788ff947af9aee13874577d6bd579f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37622Z3TX512891/b11166f86c60a1e5b547913972f4c3f9.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Coolray</Model>
+		<GenerationId>18719904</GenerationId>
+		<ModificationId>18724309</ModificationId>
+		<ComplectationId>18724310</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37622Z3TX512891</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>b64fcb75752cf9953a72f4b5a50b6349</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
+
+ Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
+
+Услуги сервисного центра:
+⚡  сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY MONJARO Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 4’050  т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+13)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+14)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+15)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- подкрылки
+- регистратор с картой памяти
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров , без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’655 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 295 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>4954990</Price>
+		<TradeinDiscount>300000</TradeinDiscount>
+		<CreditDiscount>599990</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>899990</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/ebfee9a018c92137434a15f6c203fc51.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/cfe293e6ad97e17e80a2f408ae25c00a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/861de5c9fe4fd08cc7ddee0d8e7c2621.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/74a163e400a37628d27e6564ea2fb81b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/b5b842043ee57699dfc396a02ff9cbe5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/668a4d242bd347943bae4db34e40548d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/9a4d55bee6231bdb581c198012591461.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/5e2238009c9977fdd836654c04716b4d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/310aab28aaec6a295f224cd2134e2116.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/3fd7d25f403f20d9ca507f45c0c9a4d7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/9d62974be352da88d2a05a7b0cf304cb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/ffa6bc64eb5ea5785c54ce818e08cda5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/c69ed7a922614a3fee978def1167b4ba.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/1805cedc6acc7f74da054974575981ac.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/a20e07a75625849f42aa10cc305bc4bc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/7bd5c2be59c1df9f985c3da3946d186a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/028e7c689b7f193d212b721808939e77.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/0491071da1ef59440af40b4c9176ab1a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/766f235f02ad0d65d0eefba78043b0f8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/b425c527490b7df12ae9928c716f205d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/f643b2b415e9c3ea50a2e38d145caa11.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/9992d5ef262bb575103256bee2c21ddd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/fb1e9959e258930366b8ac109930bdba.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/7a507ec4ba9c4f7be4d5ac81e262efe0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS071377/8c46fcaee40fb5cc49951c5f3a986b6a.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D0TS071377</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>b1d87c8c0718342bf7955e5cc845a655</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
+
+ Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
+
+Услуги сервисного центра:
+⚡  сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY MONJARO Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 4’050  т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+13)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+14)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+15)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- подкрылки
+- регистратор с картой памяти
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров , без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’655 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 295 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>4954990</Price>
+		<TradeinDiscount>300000</TradeinDiscount>
+		<CreditDiscount>599990</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>899990</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/939060745fdc9aff870b14a6cd166863.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/df406eec394c7dda5b161b36d0064b60.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/38e53451421d01d231c02f88f4b72cea.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/1c0c365a8c9c15afba236959e450454c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/5f7e542d410471518046cee36bacf00e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/03c7cf2643fc3a59c203ef5b4cce5613.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/b88faae07a4e28225f41e0a30282ff12.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/06a546b54582297577f330ef81a1bfb5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/d41c8ff19b97902311b50faada0c9a24.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/98a155b35d729dbc9492ad9ffa6a5c04.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/7f4f8db17b3804a9a007fbf1b8969d48.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/e7b4a06027d4c21666410acbf95571be.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/2ba76703a70d9b1de8f95b0e3678b45d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/af1184c20fa556a67ff04cb0ffa7934d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/8ce8fb3dfda23bd0bb9bdcbc7a634609.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/5e45502972ef0b79b7a6141830c50093.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/0204444b6b238fe659f683da837a7e1b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/6f4c9273dd4949f88891b47d97c3c3fb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/ec40a6a3fd3c54b91e8ed91c42eee4b7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/1eba123ef197e5149ac91de4dd91fa1b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/52599e3aba128a05cb7297805c59951f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/79278419cbb35b550b7ff2a93883b425.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/75e27c5f622cf81de025abae9c898fa7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/e09d232d8455a6c3a6164ca5988a48c1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D5TS071942/1abcbf3d25c6bc7dd231472d30dc176f.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D5TS071942</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>c5dc721bff1eb68c3840491793151f80</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
+
+ Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
+
+Услуги сервисного центра:
+⚡  сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY MONJARO Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 4’050  т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+13)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+14)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+15)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- подкрылки
+- регистратор с картой памяти
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров , без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’655 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 295 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>4954990</Price>
+		<TradeinDiscount>300000</TradeinDiscount>
+		<CreditDiscount>599990</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>899990</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/cee51ea8e283bac76f3a99a00dc35954.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/692f4a5a26f2f4936983cc0dc01b2604.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/4ca462a23d9f6262aa51b2bf7278a58d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/83514e5e3ff6bb88e45b3818bc77f18a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/16393788038a3b2706387f6ab813ff38.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/ca3d956e4d2eb62a24169642ff74731f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/c8db26f688f4057ed325c67142f5d770.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/79acfa903a62aa94409ad879bf806403.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/f301fe4c570ae22020853a163e27fd46.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/69e9a5d413e943a3e04ef1c21d1dc90c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/d629d4a8fb04cee7ea9074b9283ad4d7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/60e06695a1bda2bee69f09887c772f74.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/d5452262744d6562d1549f5d7c4c2eda.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/d8ce5bb57a12df1d52e3b7d531ecd22d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/60c5f6b9f95bb4ac85ef342e98a40036.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/e1a182664992f7e66d4ecbd831416622.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/c4619641e84ef22a152150913601e097.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/852d4c276dd7692820cb7bc479bbb23b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/541ed45f8f935b8eed6e46226dc7ef12.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/a8876e31cce964ae716ee2631d8e2f07.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/dae2fa8ecc7227340b7cca6816b477cc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/9fe8dd50b51489fb425ca4a32a25cfb4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/d7f11ae42a6ad2c541581d93ca96e156.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/aa8c6843896a7ae8c34d2d163f4f136c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS072545/0bee3125bade92f18085f7b826105e04.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D0TS072545</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>9a581fb6a5f006cbbf319235a2869a1f</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
+
+ Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
+
+Услуги сервисного центра:
+⚡  сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY MONJARO Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 4’050  т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+13)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+14)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+15)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- подкрылки
+- регистратор с картой памяти
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров , без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’655 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 295 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>4954990</Price>
+		<TradeinDiscount>300000</TradeinDiscount>
+		<CreditDiscount>599990</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>899990</MaxDiscount>
+		<Color>Зеленый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/4ecb3eb8881e37b6cf090fffa355fcc2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/5a358dade3dc3d5c3bc4851b623530f3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/152fd7f3b19722a9d5258475ae47bd91.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/e5f957b0c61d68d9fd047d340654b210.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/5f257cf0e13ad751007358f442877797.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/5429c575d5b7f4c9f149dc9857f40a79.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/09e2411240368cc14aec5cd4275b06be.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/ba3f9cf4f4d3cda3951aa64029155d13.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/a2f94406e4c0367be119beb1d95b7314.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/5013b5255cac94e92d96d1184679613c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/32425096ec391f470e75fede9872feb7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/37c0bf7180775523ca0a697c45be8a68.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/46c6b27980d8b0ed8688e0ad6e6d84f0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/b69883bb86ed1e7cbb09765dedb44e9a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/2d088b2c15736f29c66900c4c403dd78.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/fc8cdf914dd16bd582944afe16b2654d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/933693e96bc5456b648bc83a4e0f1095.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/bbbda9ac259b6a4f821268102e7f15f0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/b588c8793b04940cec2a1a4484694f12.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/22aaf3409d8d192e8e65b629758b3f5c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6TS079340/7b0d6a5bf052b45e9aca9b485789f230.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D6TS079340</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>9d2edb109d7abfd94094fff7084ffc95</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
+
+ Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
+
+Услуги сервисного центра:
+⚡  сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY MONJARO Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 4’050  т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+13)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+14)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+15)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- подкрылки
+- регистратор с картой памяти
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров , без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’655 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 295 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>4954990</Price>
+		<TradeinDiscount>300000</TradeinDiscount>
+		<CreditDiscount>599990</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>899990</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/a8b5e9d1c244845278922a9a8d415536.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/d7c9672cb733b46059ff3f7c2abd7251.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/abf324d493e49ae8a5ba683f20ed618c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/585c39b6de93b51ccbff5be7f534ba16.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/e2370c9af6dde979dd4eab1d176424b6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/e830473d401e3121b661f32fc6359cba.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/8b617cb2366aaecdc59ec7719abdc73a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/0bf335938fd123382b76cf8633a13abc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/935c6d96aa2e699c2114013446da8b68.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/fab9ee3abe6993cf42905213ad9c6e2d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/bddf33d21497d620ff0202dfa52b70f6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/464958336e88daa13f71d66367cd30a7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/d780d2f10508aefbf95739afec3e1b0e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/aa215b2fa2fcc88d53d50f2560eaf147.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/414b5cb83e150f9ace305a10a12bac74.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/429f7956a2f621525dce1448ee8abd2a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/c5c9c4d47fe5eca3a92edec5755309df.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/b014ee15b48dbe0ac8fde4248ef4b7af.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/b4f6ddc067408d8e4f20832835654a74.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/981f91eca3b2a98377997601d4f81473.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/30dfe17c20cfbdff9f28bad897e1abc2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D4TS072502/f8c4ea668c9db3960f618223e71c4e33.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D4TS072502</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>efca284ba6b8aa38eb339277c5713ee4</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
+
+ Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
+
+Услуги сервисного центра:
+⚡  сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY  OKAVANGO Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 3’125  т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+13)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+14)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+15)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- подкрылки
+- регистратор с картой памяти
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров , без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’810 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 260 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 395 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>4085990</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount>50000</InsuranceDiscount>
+		<MaxDiscount>700000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/268c534a5c8c6bbc59e1b2caca822219.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/e16340b00f83779ee7bb5c32f3d98bbd.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/17436fd039a5da2dca81dd4117fb7592.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/ef2ccf0b83336b6e4f377db3628e777c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/d0bc0a7f2b3b13d52bca8462ee65929c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/77e40810787093220a0144eeabdb2a3e.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/f812df2e3cd84c6287068fd8f44ee8ee.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/dd2b7247a9232f42ef1bae3f53f5d0e9.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/b40a4761ef3cda2691d7dd9b1d732bde.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/cc34aa73fbd02c06f1247dacaed039d0.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/89af040d3cc1bcc48d1a7361c55a794a.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/6aaad39acc944099f7b9e28689ee7f5c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/0e7286d26493f100b439f5477a6d0122.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/4a173b4e5b91cb2f99c9f27a57675fcd.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/94ada6c8e0d8d7d9cebfc9517eec8f65.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/92c67250badb0f65da1022bdf26a9db2.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/82cb9f40b2a2abcd7fb66ce456a2b55c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/6dd44068f302973075bbbdc6a1bddeaa.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/dd5dc175a91bfdabd9b78565e95ecbe5.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/eb5693ba15a0f144c9dd2fd60190690a.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/0500a237cd4d5c0a579b05f054bae226.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/7654388bd2e3df9765eb62245c4b5c6b.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/3fcd0dc369205833ee1b0f2c90eb8f95.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S66TY901020/686d77750a9dd5c8346b538156ade55e.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Okavango</Model>
+		<GenerationId>18803792</GenerationId>
+		<ModificationId>18803793</ModificationId>
+		<ComplectationId>18803795</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>L6TVX1S66TY901020</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>553e3425913285f162399df2f9abdee5</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Партнер-Авто Орск официальный дилер GEELY
+
+Наш адрес: Орск, территория автодорога, Западное шоссе зд.2, п.2
+
+Услуги сервисного центра:
+
+⚡ сервисное обслуживание
+
+⚡ «шинный отель»
+
+⚡ установка дополнительного оборудования и аксессуаров
+
+⚡ предоставляется гарантия качества
+
+Услуги отдела продаж:
+
+⚡ обмен Вашего автомобиля с пробегом на новый
+
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+
+⚡ приобрести автомобиль в Кредит или в Лизинг
+
+⚡ заключить договоры Страхования
+
+ Позвоните прямо сейчас и получите индивидуальные условия приобретения 
+
+❗ GEELY PREFACE Люкс с гарантией качества до 5 лет или до 150 000 км ❗
+
+
+
+Цена 2’800  т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования, заключения договора страхования КАСКО и обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования.
+
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+
+1) срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+
+2) перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+
+3) стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 250 т.р. :
+
+- защита картера двигателя
+
+- защитная сетка радиатора
+
+- коврики
+
+- брызговики
+
+- подкрылки
+
+- регистратор с картой памяти
+
+- полная антикоррозионная обработка арок и дна автомобиля
+
+- сигнализация с автозапуском и управлением со смартфона
+
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗
+
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров , без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’335 т.р.
+
+Выгоды:
+
+1. При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 180 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+
+2. При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на325 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+
+3. При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
+		<Price>3329990</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>290000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>540000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/6290edd7944637e79bb9cc805bdb002b.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/6dd945202a3fa8c0202d935e17f72740.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/92739edf62265601c13e7ef6c69dfd7a.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/095bde37c518ac11b8aa8d7d5adcc2aa.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/39853596a1e45451018285e5fff7176c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/0cb67847d5572a6cf3a785585ec2e728.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/e4468e98cd577fc7e500f1f042d9f12c.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/d7107e81bbe7f8fc6aeb45e9390fa55b.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/4acdd80bf98d865753b4770f639e7d09.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/de59c1e40b176fb7cd54eac559139fee.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/4e844f30903368903465f67314112bf7.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/4558bc8eeae7fe44372ad6208a5e040b.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/6bef3fdefc779199eca0964b8007ec2d.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/e86c9a91f4c28bff5eb0975c2bf18cf1.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S89TD010537/55326a39dbc49f605e75490b86a06869.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Preface</Model>
+		<GenerationId>22072566</GenerationId>
+		<ModificationId>22571292</ModificationId>
+		<ComplectationId>22571293</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>L6TFS1S89TD010537</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>70e70bd9aa7110e76701f465445d157a</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания!. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+⚡️⚡️ 5 ТО в подарок при покупке нового автомобиля - подробности уточняйте у продавца⚡️⚡️
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 516 000 руб. только до 31 мая! Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Дополнительное оборудование*
+✔️ Шинный отель*
+✔️ Программа обена автомобиля
+✔️ Лизинг без первоначального взноса
+✔️ Пробная поездка
+
+
+Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
+
+ПВ – первоначальный взнос, ЕП – ежемесячный платеж
+
+На 5 лет:
+ПВ = 0 т.р. ЕП = от 74 т. р. ставка от 12,8%
+ПВ = 295 т.р. ЕП = от 67 т.р. ставка от 11,8%
+ПВ = 590 т.р. ЕП = от 55 т.р. ставка от 7,8 %
+ПВ = 885 т.р. ЕП = от 48 т.р. ставка от 7,1 %
+ПВ = 1’180 т.р. ЕП =  от 41 т.р. ставка 6,1%
+ПВ = 1’475 т.р. ЕП = от 33 т.р. ставка от 4,8 %
+ПВ = 1’770 т.р. ЕП = от 25 т.р. ставка от 1,7 %
+ПВ = 2’065  т.р. ЕП = от 19 т.р. ставка от 0,01 %
+
+На 7 лет:
+ПВ = 0 т.р. ЕП = от 62 т.р. ставка от 15,5 %
+ПВ = 295 т.р. ЕП = от 55 т.р. ставка от 15 %
+ПВ = 590 т.р. ЕП = от 46 т.р. ставка от 9,2 %
+ПВ = 885 т.р. ЕП = от 38 т.р. ставка от 8,5 %
+ПВ = 1’180 т.р. ЕП = от 32 т.р. ставка от 7,3 %
+ПВ = 1’475 т.р. ЕП = от 27 т.р. ставка от 6,3 %
+ПВ = 1’770 т.р. ЕП = от 21 т.р. ставка от 4,3 %
+ПВ = 2’065 т.р. ЕП = от 14 т.р. ставка от 1,7 %
+ПВ = 2’360 т.р. ЕП = от 9 т.р. ставка от 0,01 %
+
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</Description>
+		<Price>3434990</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>290000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>540000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Preface</Model>
+		<GenerationId>22072566</GenerationId>
+		<ModificationId>22571292</ModificationId>
+		<ComplectationId>22571294</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>L6TFS1S87TD028132</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>b5072cc32995260853b2ba3c396bf295</Id>
+		<Address>Оренбургская обл., г. Орск, территория автодорога, Западное шоссе, зд.2</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Подарки всeм покупатeлям!
+
+Реализация cкладa Gеely по ценaм зaвода. Успeйтe купить дo пoдoрожания!. 
+
+Улучшим любoе предлoжениe. Пpежде чем сделaть выбор, позвоните в Партнер-Авто Орск!
+
+⚡️⚡️ 5 ТО в подарок при покупке нового автомобиля - подробности уточняйте у продавца⚡️⚡️
+
+------------------------
+
+Выгодно у нас, потому что:
+
+❗️ Реализация склада новых автомобилей Gееly
+❗️ Гарантируем одни из лучших условий в ближайших городах на покупку нового автомобиля Gееly
+❗️ Перебьём любое предложение на рынке!
+
+Скидка для юр.лиц до 516 000 руб. только до 31 мая! Оформляем также в лизинг!
+------------------------
+
+НАШИ ПРЕИМУЩЕСТВА:
+
+✔️ Дополнительное оборудование*
+✔️ Шинный отель*
+✔️ Программа обена автомобиля
+✔️ Лизинг без первоначального взноса
+✔️ Пробная поездка
+
+
+Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
+
+ПВ – первоначальный взнос, ЕП – ежемесячный платеж
+
+На 5 лет:
+ПВ = 0 т.р. ЕП = от 74 т. р. ставка от 12,8%
+ПВ = 295 т.р. ЕП = от 67 т.р. ставка от 11,8%
+ПВ = 590 т.р. ЕП = от 55 т.р. ставка от 7,8 %
+ПВ = 885 т.р. ЕП = от 48 т.р. ставка от 7,1 %
+ПВ = 1’180 т.р. ЕП =  от 41 т.р. ставка 6,1%
+ПВ = 1’475 т.р. ЕП = от 33 т.р. ставка от 4,8 %
+ПВ = 1’770 т.р. ЕП = от 25 т.р. ставка от 1,7 %
+ПВ = 2’065  т.р. ЕП = от 19 т.р. ставка от 0,01 %
+
+На 7 лет:
+ПВ = 0 т.р. ЕП = от 62 т.р. ставка от 15,5 %
+ПВ = 295 т.р. ЕП = от 55 т.р. ставка от 15 %
+ПВ = 590 т.р. ЕП = от 46 т.р. ставка от 9,2 %
+ПВ = 885 т.р. ЕП = от 38 т.р. ставка от 8,5 %
+ПВ = 1’180 т.р. ЕП = от 32 т.р. ставка от 7,3 %
+ПВ = 1’475 т.р. ЕП = от 27 т.р. ставка от 6,3 %
+ПВ = 1’770 т.р. ЕП = от 21 т.р. ставка от 4,3 %
+ПВ = 2’065 т.р. ЕП = от 14 т.р. ставка от 1,7 %
+ПВ = 2’360 т.р. ЕП = от 9 т.р. ставка от 0,01 %
+
+------------------------
+ООО «Партнер-Восток»
+Наш адрес: 462421 Оренбургская область, г.о. город Орск, г Орск, территория автодорога Западное шоссе, зд.2 помещ.2</Description>
+		<Price>3434990</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>290000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>540000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Preface</Model>
+		<GenerationId>22072566</GenerationId>
+		<ModificationId>22571292</ModificationId>
+		<ComplectationId>22571294</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>L6TFS1S89TD005046</VIN>
+		<ContactPhone>83537223355</ContactPhone>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+</Ads>
